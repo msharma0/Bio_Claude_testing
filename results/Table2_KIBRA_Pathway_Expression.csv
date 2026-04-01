@@ -1,0 +1,376 @@
+Dataset,Species,Condition,Pathway,Gene,Log2FC,P_Value,Direction
+GSE21942,Human,Multiple Sclerosis,Hippo_Signaling,STK4,0.029,0.6068,UP
+GSE21942,Human,Multiple Sclerosis,Hippo_Signaling,LATS1,0.041,0.5331,UP
+GSE21942,Human,Multiple Sclerosis,Hippo_Signaling,MOB1A,-0.283,0.0002,DOWN
+GSE21942,Human,Multiple Sclerosis,Hippo_Signaling,WWTR1,0.009,0.8843,UP
+GSE21942,Human,Multiple Sclerosis,Hippo_Signaling,STK3,-0.223,0.0521,DOWN
+GSE21942,Human,Multiple Sclerosis,Hippo_Signaling,NF2,-0.058,0.1694,DOWN
+GSE21942,Human,Multiple Sclerosis,Hippo_Signaling,AMOT,0.025,0.0874,UP
+GSE21942,Human,Multiple Sclerosis,Hippo_Signaling,YAP1,0.03,0.457,UP
+GSE21942,Human,Multiple Sclerosis,Hippo_Signaling,SAV1,0.465,0.0068,UP
+GSE21942,Human,Multiple Sclerosis,Hippo_Signaling,LATS2,0.046,0.7559,UP
+GSE21942,Human,Multiple Sclerosis,Hippo_Signaling,MOB1B,-0.503,0.0002,DOWN
+GSE21942,Human,Multiple Sclerosis,Memory_Synaptic,PRKCZ,0.249,0.0034,UP
+GSE21942,Human,Multiple Sclerosis,Memory_Synaptic,CREB1,-0.051,0.4052,DOWN
+GSE21942,Human,Multiple Sclerosis,Memory_Synaptic,DLG4,-0.027,0.4163,DOWN
+GSE21942,Human,Multiple Sclerosis,Memory_Synaptic,GRIN1,-0.011,0.7561,DOWN
+GSE21942,Human,Multiple Sclerosis,Memory_Synaptic,BDNF,-0.106,0.1162,DOWN
+GSE21942,Human,Multiple Sclerosis,Memory_Synaptic,CAMK2A,0.02,0.3473,UP
+GSE21942,Human,Multiple Sclerosis,Memory_Synaptic,ARC,0.164,0.0765,UP
+GSE21942,Human,Multiple Sclerosis,Memory_Synaptic,GRIN2B,-0.001,0.9765,DOWN
+GSE21942,Human,Multiple Sclerosis,Memory_Synaptic,SYP,0.029,0.6886,UP
+GSE21942,Human,Multiple Sclerosis,Autophagy_Proteostasis,BECN1,-0.044,0.3222,DOWN
+GSE21942,Human,Multiple Sclerosis,Autophagy_Proteostasis,ATG7,-0.364,0.0003,DOWN
+GSE21942,Human,Multiple Sclerosis,Autophagy_Proteostasis,LAMP2,-0.307,0.0001,DOWN
+GSE21942,Human,Multiple Sclerosis,Autophagy_Proteostasis,SQSTM1,-0.02,0.7588,DOWN
+GSE21942,Human,Multiple Sclerosis,Autophagy_Proteostasis,ATG5,-0.024,0.6445,DOWN
+GSE21942,Human,Multiple Sclerosis,Autophagy_Proteostasis,MAP1LC3B,0.073,0.3365,UP
+GSE21942,Human,Multiple Sclerosis,Autophagy_Proteostasis,HSP90AA1,-0.125,0.0888,DOWN
+GSE21942,Human,Multiple Sclerosis,Autophagy_Proteostasis,HSPA5,-0.043,0.5649,DOWN
+GSE21942,Human,Multiple Sclerosis,Autophagy_Proteostasis,TFEB,-0.006,0.9568,DOWN
+GSE21942,Human,Multiple Sclerosis,PI3K_AKT_mTOR,RICTOR,-0.293,0.0002,DOWN
+GSE21942,Human,Multiple Sclerosis,PI3K_AKT_mTOR,MTOR,0.189,0.012,UP
+GSE21942,Human,Multiple Sclerosis,PI3K_AKT_mTOR,PTEN,-0.258,0.0,DOWN
+GSE21942,Human,Multiple Sclerosis,PI3K_AKT_mTOR,RPS6KB1,0.028,0.5312,UP
+GSE21942,Human,Multiple Sclerosis,PI3K_AKT_mTOR,PIK3CA,-0.266,0.0002,DOWN
+GSE21942,Human,Multiple Sclerosis,PI3K_AKT_mTOR,AKT1,-0.591,0.0,DOWN
+GSE21942,Human,Multiple Sclerosis,PI3K_AKT_mTOR,TSC1,0.146,0.0163,UP
+GSE21942,Human,Multiple Sclerosis,PI3K_AKT_mTOR,TSC2,0.176,0.1809,UP
+GSE21942,Human,Multiple Sclerosis,PI3K_AKT_mTOR,RPTOR,0.255,0.005,UP
+GSE8762,Human,Huntington's Disease,Hippo_Signaling,STK4,-0.004,0.8964,DOWN
+GSE8762,Human,Huntington's Disease,Hippo_Signaling,LATS1,-0.028,0.194,DOWN
+GSE8762,Human,Huntington's Disease,Hippo_Signaling,MOB1A,-0.041,0.3658,DOWN
+GSE8762,Human,Huntington's Disease,Hippo_Signaling,WWTR1,-0.016,0.6542,DOWN
+GSE8762,Human,Huntington's Disease,Hippo_Signaling,STK3,-0.062,0.1349,DOWN
+GSE8762,Human,Huntington's Disease,Hippo_Signaling,NF2,0.01,0.4862,UP
+GSE8762,Human,Huntington's Disease,Hippo_Signaling,AMOT,0.017,0.6326,UP
+GSE8762,Human,Huntington's Disease,Hippo_Signaling,YAP1,-0.004,0.8315,DOWN
+GSE8762,Human,Huntington's Disease,Hippo_Signaling,SAV1,0.016,0.7309,UP
+GSE8762,Human,Huntington's Disease,Hippo_Signaling,LATS2,0.051,0.3606,UP
+GSE8762,Human,Huntington's Disease,Hippo_Signaling,MOB1B,0.046,0.383,UP
+GSE8762,Human,Huntington's Disease,Memory_Synaptic,PRKCZ,-0.03,0.5009,DOWN
+GSE8762,Human,Huntington's Disease,Memory_Synaptic,CREB1,-0.011,0.7518,DOWN
+GSE8762,Human,Huntington's Disease,Memory_Synaptic,DLG4,0.01,0.7737,UP
+GSE8762,Human,Huntington's Disease,Memory_Synaptic,GRIN1,0.044,0.3931,UP
+GSE8762,Human,Huntington's Disease,Memory_Synaptic,BDNF,0.015,0.5558,UP
+GSE8762,Human,Huntington's Disease,Memory_Synaptic,CAMK2A,0.031,0.4143,UP
+GSE8762,Human,Huntington's Disease,Memory_Synaptic,ARC,0.001,0.9838,UP
+GSE8762,Human,Huntington's Disease,Memory_Synaptic,GRIN2B,-0.027,0.1877,DOWN
+GSE8762,Human,Huntington's Disease,Memory_Synaptic,SYP,0.058,0.1894,UP
+GSE8762,Human,Huntington's Disease,Autophagy_Proteostasis,BECN1,-0.034,0.2819,DOWN
+GSE8762,Human,Huntington's Disease,Autophagy_Proteostasis,ATG7,-0.003,0.9441,DOWN
+GSE8762,Human,Huntington's Disease,Autophagy_Proteostasis,LAMP2,-0.046,0.5659,DOWN
+GSE8762,Human,Huntington's Disease,Autophagy_Proteostasis,SQSTM1,0.013,0.4035,UP
+GSE8762,Human,Huntington's Disease,Autophagy_Proteostasis,ATG5,-0.094,0.1149,DOWN
+GSE8762,Human,Huntington's Disease,Autophagy_Proteostasis,MAP1LC3B,0.005,0.9119,UP
+GSE8762,Human,Huntington's Disease,Autophagy_Proteostasis,HSP90AA1,-0.032,0.0295,DOWN
+GSE8762,Human,Huntington's Disease,Autophagy_Proteostasis,HSPA5,-0.04,0.1917,DOWN
+GSE8762,Human,Huntington's Disease,Autophagy_Proteostasis,TFEB,-0.019,0.4516,DOWN
+GSE8762,Human,Huntington's Disease,PI3K_AKT_mTOR,RICTOR,0.002,0.963,UP
+GSE8762,Human,Huntington's Disease,PI3K_AKT_mTOR,MTOR,-0.003,0.8834,DOWN
+GSE8762,Human,Huntington's Disease,PI3K_AKT_mTOR,PTEN,-0.035,0.4215,DOWN
+GSE8762,Human,Huntington's Disease,PI3K_AKT_mTOR,RPS6KB1,-0.019,0.6199,DOWN
+GSE8762,Human,Huntington's Disease,PI3K_AKT_mTOR,PIK3CA,-0.007,0.9006,DOWN
+GSE8762,Human,Huntington's Disease,PI3K_AKT_mTOR,AKT1,-0.009,0.8095,DOWN
+GSE8762,Human,Huntington's Disease,PI3K_AKT_mTOR,TSC1,0.064,0.2106,UP
+GSE8762,Human,Huntington's Disease,PI3K_AKT_mTOR,TSC2,0.02,0.3662,UP
+GSE8762,Human,Huntington's Disease,PI3K_AKT_mTOR,RPTOR,0.06,0.1204,UP
+GSE35642,Human,Parkinsonism (in vitro),Hippo_Signaling,MOB1A,0.206,0.2393,UP
+GSE35642,Human,Parkinsonism (in vitro),Hippo_Signaling,WWTR1,0.434,0.0251,UP
+GSE35642,Human,Parkinsonism (in vitro),Hippo_Signaling,STK3,0.433,0.0659,UP
+GSE35642,Human,Parkinsonism (in vitro),Hippo_Signaling,NF2,0.122,0.271,UP
+GSE35642,Human,Parkinsonism (in vitro),Hippo_Signaling,STK4,-0.035,0.8352,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Hippo_Signaling,AMOT,0.045,0.8587,UP
+GSE35642,Human,Parkinsonism (in vitro),Hippo_Signaling,YAP1,1.355,0.0274,UP
+GSE35642,Human,Parkinsonism (in vitro),Hippo_Signaling,SAV1,0.024,0.8554,UP
+GSE35642,Human,Parkinsonism (in vitro),Hippo_Signaling,LATS1,-0.146,0.3301,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Memory_Synaptic,PRKCZ,-0.375,0.2004,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Memory_Synaptic,CREB1,0.116,0.5657,UP
+GSE35642,Human,Parkinsonism (in vitro),Memory_Synaptic,DLG4,0.217,0.4733,UP
+GSE35642,Human,Parkinsonism (in vitro),Memory_Synaptic,GRIN1,-0.177,0.3149,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Memory_Synaptic,BDNF,-0.322,0.5516,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Memory_Synaptic,CAMK2A,-0.192,0.3683,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Memory_Synaptic,ARC,0.34,0.0376,UP
+GSE35642,Human,Parkinsonism (in vitro),Memory_Synaptic,GRIN2B,-0.362,0.0124,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Memory_Synaptic,SYP,-0.108,0.577,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Autophagy_Proteostasis,LAMP2,-0.222,0.4323,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Autophagy_Proteostasis,SQSTM1,0.278,0.0422,UP
+GSE35642,Human,Parkinsonism (in vitro),Autophagy_Proteostasis,ATG5,-0.015,0.9312,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Autophagy_Proteostasis,MAP1LC3B,0.232,0.04,UP
+GSE35642,Human,Parkinsonism (in vitro),Autophagy_Proteostasis,BECN1,0.07,0.3639,UP
+GSE35642,Human,Parkinsonism (in vitro),Autophagy_Proteostasis,HSP90AA1,0.107,0.3284,UP
+GSE35642,Human,Parkinsonism (in vitro),Autophagy_Proteostasis,HSPA5,0.09,0.7107,UP
+GSE35642,Human,Parkinsonism (in vitro),Autophagy_Proteostasis,ATG7,-0.181,0.3636,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Autophagy_Proteostasis,TFEB,-0.292,0.0599,DOWN
+GSE35642,Human,Parkinsonism (in vitro),PI3K_AKT_mTOR,MTOR,-0.077,0.3399,DOWN
+GSE35642,Human,Parkinsonism (in vitro),PI3K_AKT_mTOR,PTEN,0.073,0.7427,UP
+GSE35642,Human,Parkinsonism (in vitro),PI3K_AKT_mTOR,RPS6KB1,-0.005,0.9672,DOWN
+GSE35642,Human,Parkinsonism (in vitro),PI3K_AKT_mTOR,PIK3CA,0.295,0.2666,UP
+GSE35642,Human,Parkinsonism (in vitro),PI3K_AKT_mTOR,AKT1,-0.084,0.6702,DOWN
+GSE35642,Human,Parkinsonism (in vitro),PI3K_AKT_mTOR,TSC1,0.185,0.3638,UP
+GSE35642,Human,Parkinsonism (in vitro),PI3K_AKT_mTOR,TSC2,0.129,0.2507,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Hippo_Signaling,Sav1,0.078,0.6438,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Hippo_Signaling,Yap1,0.332,0.0303,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Hippo_Signaling,Wwtr1,0.599,0.0116,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Hippo_Signaling,Stk3,0.076,0.6683,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Hippo_Signaling,Lats2,-0.15,0.268,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Hippo_Signaling,Stk4,0.006,0.9279,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Hippo_Signaling,Nf2,0.351,0.0004,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Hippo_Signaling,Mob1a,0.987,0.0,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Hippo_Signaling,Amot,0.034,0.6407,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Hippo_Signaling,Lats1,-0.092,0.3472,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Hippo_Signaling,Mob1b,0.142,0.2042,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Memory_Synaptic,Prkcz,-0.348,0.0509,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Memory_Synaptic,Arc,-0.65,0.1302,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Memory_Synaptic,Dlg4,-0.339,0.0517,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Memory_Synaptic,Creb1,0.042,0.5518,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Memory_Synaptic,Bdnf,-0.158,0.6629,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Memory_Synaptic,Grin2b,-0.526,0.0034,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Memory_Synaptic,Camk2a,-0.67,0.065,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Memory_Synaptic,Grin1,-0.405,0.0002,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Memory_Synaptic,Syp,-0.405,0.0005,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Autophagy_Proteostasis,Atg5,0.037,0.6486,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Autophagy_Proteostasis,Map1lc3b,0.03,0.6776,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Autophagy_Proteostasis,Hspa5,0.281,0.0267,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Autophagy_Proteostasis,Lamp2,0.946,0.0001,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Autophagy_Proteostasis,Tfeb,0.249,0.1855,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Autophagy_Proteostasis,Hsp90aa1,-0.266,0.0006,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Autophagy_Proteostasis,Atg7,0.025,0.7577,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Autophagy_Proteostasis,Becn1,-0.073,0.5241,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Autophagy_Proteostasis,Sqstm1,0.031,0.6515,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,PI3K_AKT_mTOR,Akt1,-0.025,0.6583,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,PI3K_AKT_mTOR,Mtor,-0.121,0.1993,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,PI3K_AKT_mTOR,Tsc1,-0.02,0.7717,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,PI3K_AKT_mTOR,Pten,-0.032,0.6755,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,PI3K_AKT_mTOR,Pik3ca,-0.183,0.0517,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,PI3K_AKT_mTOR,Rictor,-0.143,0.081,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,PI3K_AKT_mTOR,Rps6kb1,-0.12,0.0498,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,PI3K_AKT_mTOR,Rptor,0.047,0.558,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,PI3K_AKT_mTOR,Tsc2,-0.101,0.2633,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Hippo_Signaling,Sav1,0.019,0.0,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Hippo_Signaling,Yap1,0.006,0.5188,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Hippo_Signaling,Wwtr1,-0.01,0.2163,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Hippo_Signaling,Stk3,-0.009,0.3797,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Hippo_Signaling,Lats2,-0.006,0.0924,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Hippo_Signaling,Stk4,-0.0,0.9406,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Hippo_Signaling,Nf2,0.018,0.044,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Hippo_Signaling,Mob1a,-0.002,0.8304,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Hippo_Signaling,Amot,-0.001,0.8961,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Hippo_Signaling,Lats1,0.005,0.5613,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Hippo_Signaling,Mob1b,-0.004,0.6491,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Memory_Synaptic,Prkcz,-0.01,0.2421,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Memory_Synaptic,Arc,0.022,0.3515,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Memory_Synaptic,Dlg4,-0.003,0.8991,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Memory_Synaptic,Creb1,-0.005,0.373,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Memory_Synaptic,Bdnf,-0.042,0.0047,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Memory_Synaptic,Grin2b,-0.035,0.0115,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Memory_Synaptic,Camk2a,0.005,0.7495,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Memory_Synaptic,Grin1,0.016,0.2434,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Memory_Synaptic,Syp,0.014,0.1854,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Autophagy_Proteostasis,Atg5,-0.019,0.0348,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Autophagy_Proteostasis,Map1lc3b,-0.005,0.0484,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Autophagy_Proteostasis,Hspa5,-0.001,0.9023,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Autophagy_Proteostasis,Lamp2,0.008,0.5417,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Autophagy_Proteostasis,Tfeb,0.022,0.0163,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Autophagy_Proteostasis,Hsp90aa1,-0.014,0.0114,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Autophagy_Proteostasis,Atg7,0.001,0.8456,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Autophagy_Proteostasis,Becn1,-0.002,0.6284,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Autophagy_Proteostasis,Sqstm1,-0.009,0.0263,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,PI3K_AKT_mTOR,Akt1,-0.004,0.5384,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,PI3K_AKT_mTOR,Mtor,0.013,0.0383,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,PI3K_AKT_mTOR,Tsc1,-0.004,0.4237,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,PI3K_AKT_mTOR,Pten,0.003,0.5701,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,PI3K_AKT_mTOR,Pik3ca,-0.016,0.1737,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,PI3K_AKT_mTOR,Rictor,-0.01,0.3991,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,PI3K_AKT_mTOR,Rps6kb1,-0.014,0.0051,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,PI3K_AKT_mTOR,Rptor,0.001,0.8723,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,PI3K_AKT_mTOR,Tsc2,0.005,0.6496,UP
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Hippo_Signaling,Sav1,N/A,0.5481,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Hippo_Signaling,Yap1,N/A,0.1065,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Hippo_Signaling,Wwtr1,N/A,0.0647,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Hippo_Signaling,Stk3,N/A,0.0505,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Hippo_Signaling,Lats2,-1.995,0.7125,DOWN
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Hippo_Signaling,Stk4,N/A,0.0469,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Hippo_Signaling,Nf2,N/A,0.0992,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Hippo_Signaling,Mob1a,N/A,0.0605,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Hippo_Signaling,Amot,N/A,0.4635,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Hippo_Signaling,Lats1,N/A,0.8422,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Hippo_Signaling,Mob1b,N/A,0.7341,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Memory_Synaptic,Prkcz,N/A,0.8194,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Memory_Synaptic,Arc,N/A,0.6511,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Memory_Synaptic,Dlg4,N/A,0.6384,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Memory_Synaptic,Creb1,N/A,0.0882,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Memory_Synaptic,Bdnf,0.108,0.9575,UP
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Memory_Synaptic,Grin2b,N/A,0.0383,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Memory_Synaptic,Camk2a,N/A,0.8004,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Memory_Synaptic,Grin1,N/A,0.7828,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Memory_Synaptic,Syp,N/A,0.3806,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Autophagy_Proteostasis,Atg5,N/A,0.4359,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Autophagy_Proteostasis,Map1lc3b,N/A,0.0727,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Autophagy_Proteostasis,Hspa5,N/A,0.196,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Autophagy_Proteostasis,Lamp2,N/A,0.1677,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Autophagy_Proteostasis,Tfeb,N/A,0.3562,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Autophagy_Proteostasis,Hsp90aa1,4.786,0.4492,UP
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Autophagy_Proteostasis,Atg7,N/A,0.4526,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Autophagy_Proteostasis,Becn1,N/A,0.056,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Autophagy_Proteostasis,Sqstm1,N/A,0.7945,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),PI3K_AKT_mTOR,Akt1,-1.329,0.7496,DOWN
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),PI3K_AKT_mTOR,Mtor,-0.64,0.9553,DOWN
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),PI3K_AKT_mTOR,Tsc1,N/A,0.8158,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),PI3K_AKT_mTOR,Pten,N/A,0.0935,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),PI3K_AKT_mTOR,Pik3ca,2.081,0.9442,UP
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),PI3K_AKT_mTOR,Rictor,N/A,0.2796,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),PI3K_AKT_mTOR,Rps6kb1,N/A,0.378,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),PI3K_AKT_mTOR,Rptor,N/A,0.5152,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),PI3K_AKT_mTOR,Tsc2,N/A,0.0511,NC
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Hippo_Signaling,Sav1,0.485,0.1048,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Hippo_Signaling,Yap1,0.013,0.9692,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Hippo_Signaling,Wwtr1,-0.733,0.0023,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Hippo_Signaling,Stk3,-0.093,0.6874,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Hippo_Signaling,Lats2,-0.099,0.5618,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Hippo_Signaling,Stk4,-0.066,0.5058,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Hippo_Signaling,Nf2,-0.672,0.0119,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Hippo_Signaling,Mob1a,-0.232,0.1729,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Hippo_Signaling,Amot,-0.301,0.1161,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Hippo_Signaling,Lats1,-0.574,0.0365,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Hippo_Signaling,Mob1b,-0.108,0.6182,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Memory_Synaptic,Prkcz,0.388,0.0045,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Memory_Synaptic,Arc,-1.264,0.0746,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Memory_Synaptic,Dlg4,-0.373,0.0398,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Memory_Synaptic,Creb1,-0.332,0.1217,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Memory_Synaptic,Bdnf,0.214,0.5584,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Memory_Synaptic,Grin2b,1.084,0.0125,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Memory_Synaptic,Camk2a,-0.426,0.199,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Memory_Synaptic,Grin1,0.813,0.0038,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Memory_Synaptic,Syp,0.116,0.0911,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Autophagy_Proteostasis,Atg5,0.192,0.4704,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Autophagy_Proteostasis,Map1lc3b,0.16,0.0017,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Autophagy_Proteostasis,Hspa5,0.029,0.6911,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Autophagy_Proteostasis,Lamp2,0.083,0.5792,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Autophagy_Proteostasis,Tfeb,-0.188,0.5756,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Autophagy_Proteostasis,Hsp90aa1,0.115,0.082,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Autophagy_Proteostasis,Atg7,0.127,0.6948,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Autophagy_Proteostasis,Becn1,0.101,0.2414,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Autophagy_Proteostasis,Sqstm1,0.772,0.0005,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,PI3K_AKT_mTOR,Akt1,-0.171,0.513,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,PI3K_AKT_mTOR,Mtor,0.012,0.9419,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,PI3K_AKT_mTOR,Tsc1,-0.67,0.0504,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,PI3K_AKT_mTOR,Pten,-0.474,0.0045,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,PI3K_AKT_mTOR,Pik3ca,-0.297,0.1601,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,PI3K_AKT_mTOR,Rictor,-0.102,0.7157,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,PI3K_AKT_mTOR,Rps6kb1,0.139,0.3219,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,PI3K_AKT_mTOR,Rptor,0.016,0.9319,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,PI3K_AKT_mTOR,Tsc2,-0.146,0.7051,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Hippo_Signaling,Sav1,0.03,0.8137,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Hippo_Signaling,Yap1,0.102,0.6478,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Hippo_Signaling,Wwtr1,0.062,0.6539,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Hippo_Signaling,Stk3,-0.329,0.046,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Hippo_Signaling,Lats2,0.072,0.705,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Hippo_Signaling,Stk4,0.266,0.0122,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Hippo_Signaling,Nf2,-0.086,0.488,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Hippo_Signaling,Mob1a,0.135,0.1829,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Hippo_Signaling,Amot,0.141,0.1571,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Hippo_Signaling,Lats1,0.055,0.1427,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Hippo_Signaling,Mob1b,-0.149,0.2455,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Memory_Synaptic,Prkcz,-0.061,0.6098,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Memory_Synaptic,Arc,-0.286,0.1588,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Memory_Synaptic,Dlg4,0.136,0.1707,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Memory_Synaptic,Creb1,0.116,0.0887,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Memory_Synaptic,Bdnf,0.37,0.6262,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Memory_Synaptic,Grin2b,0.044,0.7186,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Memory_Synaptic,Camk2a,0.127,0.2325,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Memory_Synaptic,Grin1,0.222,0.0388,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Memory_Synaptic,Syp,-0.036,0.7938,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Autophagy_Proteostasis,Atg5,0.136,0.334,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Autophagy_Proteostasis,Map1lc3b,0.052,0.1289,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Autophagy_Proteostasis,Hspa5,0.261,0.0466,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Autophagy_Proteostasis,Lamp2,0.183,0.0241,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Autophagy_Proteostasis,Tfeb,0.001,0.998,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Autophagy_Proteostasis,Hsp90aa1,0.053,0.2446,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Autophagy_Proteostasis,Atg7,-0.047,0.7005,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Autophagy_Proteostasis,Becn1,0.049,0.2868,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Autophagy_Proteostasis,Sqstm1,0.052,0.4037,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),PI3K_AKT_mTOR,Akt1,-0.061,0.5865,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),PI3K_AKT_mTOR,Mtor,-0.355,0.1068,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),PI3K_AKT_mTOR,Tsc1,0.112,0.1496,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),PI3K_AKT_mTOR,Pten,0.061,0.0995,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),PI3K_AKT_mTOR,Pik3ca,-0.02,0.804,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),PI3K_AKT_mTOR,Rictor,0.061,0.0295,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),PI3K_AKT_mTOR,Rps6kb1,-0.058,0.6236,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),PI3K_AKT_mTOR,Rptor,0.021,0.3232,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),PI3K_AKT_mTOR,Tsc2,-0.044,0.6881,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Hippo_Signaling,Sav1,0.01,0.3004,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Hippo_Signaling,Yap1,0.016,0.4888,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Hippo_Signaling,Wwtr1,-0.006,0.5252,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Hippo_Signaling,Stk3,-0.016,0.6272,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Hippo_Signaling,Lats2,-0.01,0.1158,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Hippo_Signaling,Stk4,-0.002,0.7345,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Hippo_Signaling,Nf2,-0.022,0.387,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Hippo_Signaling,Mob1a,-0.012,0.4342,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Hippo_Signaling,Amot,0.007,0.6124,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Hippo_Signaling,Lats1,-0.008,0.774,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Hippo_Signaling,Mob1b,0.028,0.0572,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Memory_Synaptic,Prkcz,-0.008,0.2461,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Memory_Synaptic,Arc,-0.073,0.0766,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Memory_Synaptic,Dlg4,-0.014,0.4276,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Memory_Synaptic,Creb1,-0.011,0.4915,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Memory_Synaptic,Bdnf,-0.046,0.1657,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Memory_Synaptic,Grin2b,-0.012,0.5342,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Memory_Synaptic,Camk2a,-0.024,0.3288,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Memory_Synaptic,Grin1,-0.021,0.2851,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Memory_Synaptic,Syp,-0.007,0.5571,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Autophagy_Proteostasis,Atg5,-0.012,0.1788,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Autophagy_Proteostasis,Map1lc3b,-0.015,0.1733,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Autophagy_Proteostasis,Hspa5,-0.006,0.5667,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Autophagy_Proteostasis,Lamp2,0.025,0.0774,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Autophagy_Proteostasis,Tfeb,-0.005,0.6814,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Autophagy_Proteostasis,Hsp90aa1,-0.005,0.5177,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Autophagy_Proteostasis,Atg7,-0.005,0.6445,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Autophagy_Proteostasis,Becn1,0.0,0.9944,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Autophagy_Proteostasis,Sqstm1,-0.031,0.3378,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),PI3K_AKT_mTOR,Akt1,-0.029,0.3176,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),PI3K_AKT_mTOR,Mtor,0.017,0.349,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),PI3K_AKT_mTOR,Tsc1,-0.026,0.139,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),PI3K_AKT_mTOR,Pten,-0.001,0.8756,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),PI3K_AKT_mTOR,Pik3ca,0.007,0.48,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),PI3K_AKT_mTOR,Rictor,-0.008,0.7393,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),PI3K_AKT_mTOR,Rps6kb1,-0.001,0.9624,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),PI3K_AKT_mTOR,Rptor,0.01,0.3759,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),PI3K_AKT_mTOR,Tsc2,-0.052,0.2791,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Hippo_Signaling,Sav1,0.02,0.021,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Hippo_Signaling,Yap1,0.018,0.0249,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Hippo_Signaling,Wwtr1,-0.024,0.2257,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Hippo_Signaling,Stk3,-0.014,0.1411,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Hippo_Signaling,Lats2,0.005,0.6384,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Hippo_Signaling,Stk4,0.013,0.5453,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Hippo_Signaling,Nf2,0.049,0.0003,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Hippo_Signaling,Mob1a,0.027,0.0672,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Hippo_Signaling,Amot,0.014,0.1127,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Hippo_Signaling,Lats1,0.03,0.3985,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Hippo_Signaling,Mob1b,0.003,0.7192,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Memory_Synaptic,Prkcz,0.007,0.2182,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Memory_Synaptic,Arc,0.006,0.889,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Memory_Synaptic,Dlg4,-0.004,0.7272,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Memory_Synaptic,Creb1,0.007,0.6754,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Memory_Synaptic,Bdnf,-0.071,0.2055,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Memory_Synaptic,Grin2b,-0.008,0.3382,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Memory_Synaptic,Grin1,0.054,0.0007,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Memory_Synaptic,Syp,-0.025,0.0226,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Memory_Synaptic,Camk2a,0.087,0.2481,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Autophagy_Proteostasis,Atg5,-0.021,0.0372,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Autophagy_Proteostasis,Map1lc3b,0.012,0.0444,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Autophagy_Proteostasis,Hspa5,0.031,0.0206,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Autophagy_Proteostasis,Lamp2,-0.004,0.6678,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Autophagy_Proteostasis,Tfeb,-0.012,0.2822,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Autophagy_Proteostasis,Hsp90aa1,0.013,0.4327,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Autophagy_Proteostasis,Atg7,-0.012,0.2065,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Autophagy_Proteostasis,Becn1,-0.006,0.3978,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Autophagy_Proteostasis,Sqstm1,0.016,0.015,UP
+GSE31458,Mouse,MPTP (Parkinson's model),PI3K_AKT_mTOR,Akt1,0.007,0.4874,UP
+GSE31458,Mouse,MPTP (Parkinson's model),PI3K_AKT_mTOR,Mtor,-0.011,0.1217,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),PI3K_AKT_mTOR,Tsc1,0.02,0.0034,UP
+GSE31458,Mouse,MPTP (Parkinson's model),PI3K_AKT_mTOR,Pten,0.006,0.7627,UP
+GSE31458,Mouse,MPTP (Parkinson's model),PI3K_AKT_mTOR,Pik3ca,-0.015,0.5662,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),PI3K_AKT_mTOR,Rictor,0.05,0.0136,UP
+GSE31458,Mouse,MPTP (Parkinson's model),PI3K_AKT_mTOR,Rps6kb1,0.029,0.0613,UP
+GSE31458,Mouse,MPTP (Parkinson's model),PI3K_AKT_mTOR,Tsc2,0.045,0.0,UP

@@ -1,0 +1,10 @@
+Dataset,Gene,Species,Condition,Tissue,Control_Mean,Disease_Mean,Control_N,Disease_N,Fold_Change,Log2FC,P_Value,Direction
+GSE21942,WWC1,Human,Multiple Sclerosis,PBMCs,6.137,6.457,15,14,1.052,0.073,0.1189,UP
+GSE21942,WWC2,Human,Multiple Sclerosis,PBMCs,34.993,33.9,15,14,0.969,-0.046,0.6776,DOWN
+GSE21942,WWC3,Human,Multiple Sclerosis,PBMCs,125.633,124.207,15,14,0.989,-0.016,0.8168,DOWN
+GSE8762,WWC1,Human,Huntington's Disease,Lymphocytes,3.045,3.072,10,12,1.009,0.013,0.6652,UP
+GSE8762,WWC2,Human,Huntington's Disease,Lymphocytes,3.354,3.293,10,12,0.982,-0.027,0.427,DOWN
+GSE8762,WWC3,Human,Huntington's Disease,Lymphocytes,6.069,5.977,10,12,0.985,-0.022,0.5432,DOWN
+GSE35642,WWC1,Human,Parkinsonism (in vitro),SK-N-MC cells,37.334,36.55,12,6,0.979,-0.031,0.7492,DOWN
+GSE35642,WWC2,Human,Parkinsonism (in vitro),SK-N-MC cells,182.983,236.452,12,6,1.292,0.37,0.1028,UP
+GSE35642,WWC3,Human,Parkinsonism (in vitro),SK-N-MC cells,310.397,383.943,12,6,1.237,0.307,0.0057,UP

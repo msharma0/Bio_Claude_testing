@@ -1,0 +1,19 @@
+# Large data directories (download locally with scripts)
+neurodeg_datasets/
+platforms/
+*.annot
+*.annot.gz
+*.soft
+*.soft.gz
+
+# Zip files (original aging dataset archives)
+*.zip
+
+# IDE / Salesforce
+.history/
+.sfdx/
+
+# Python
+__pycache__/
+*.pyc
+.env

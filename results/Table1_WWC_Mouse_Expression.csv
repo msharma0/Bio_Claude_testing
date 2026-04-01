@@ -1,0 +1,15 @@
+Dataset,Gene,Species,Condition,Tissue,Control_Mean,Disease_Mean,Control_N,Disease_N,Fold_Change,Log2FC,P_Value,Direction
+GSE23182,Wwc1,Mouse,Chronic Neurodegeneration + Inflammation,Brain (hippocampus),2702.818,2442.924,6,6,0.904,-0.146,0.1292,DOWN
+GSE23182,Wwc2,Mouse,Chronic Neurodegeneration + Inflammation,Brain (hippocampus),1245.173,1464.654,6,6,1.176,0.234,0.0051,UP
+GSE26600,Wwc1,Mouse,MAM Genotoxin Exposure,Brain,6.066,6.061,47,47,0.999,-0.001,0.8479,DOWN
+GSE26600,Wwc2,Mouse,MAM Genotoxin Exposure,Brain,6.24,6.248,47,47,1.001,0.002,0.7004,UP
+GSE47516,Wwc1,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Cerebellum,0.005,0.044,11,10,8.868,3.149,0.4162,UP
+GSE47516,Wwc2,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Cerebellum,-0.052,0.101,11,10,,,0.0477,NC
+GSE52118,Wwc1,Mouse,ALS Motor Pool Vulnerability,Motor neurons,1450.758,863.308,3,3,0.595,-0.749,0.0026,DOWN
+GSE52118,Wwc2,Mouse,ALS Motor Pool Vulnerability,Motor neurons,107.733,68.787,3,3,0.638,-0.647,0.023,DOWN
+GSE5786,Wwc1,Mouse,PGC-1α KO (Huntington's model),Striatum,170.033,166.325,3,3,0.978,-0.032,0.8126,DOWN
+GSE5786,Wwc2,Mouse,PGC-1α KO (Huntington's model),Striatum,96.533,88.38,3,3,0.916,-0.127,0.0394,DOWN
+GSE63012,Wwc1,Mouse,IκBα KO (Neuroinflammation),Hippocampus,7.019,7.039,3,3,1.003,0.004,0.536,UP
+GSE63012,Wwc2,Mouse,IκBα KO (Neuroinflammation),Hippocampus,7.378,7.389,3,3,1.002,0.002,0.8221,UP
+GSE31458,Wwc1,Mouse,MPTP (Parkinson's model),Brain (PFC/Putamen),7.391,7.329,18,11,0.992,-0.012,0.4052,DOWN
+GSE31458,Wwc2,Mouse,MPTP (Parkinson's model),Brain (PFC/Putamen),6.969,6.871,18,11,0.986,-0.021,0.0872,DOWN

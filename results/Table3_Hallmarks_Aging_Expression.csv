@@ -1,0 +1,523 @@
+Dataset,Species,Condition,Hallmark,Gene,Log2FC,P_Value,Direction
+GSE21942,Human,Multiple Sclerosis,Genomic_Instability,ATM,-0.521,0.0008,DOWN
+GSE21942,Human,Multiple Sclerosis,Genomic_Instability,TP53,-0.317,0.0013,DOWN
+GSE21942,Human,Multiple Sclerosis,Genomic_Instability,XRCC1,-0.206,0.0307,DOWN
+GSE21942,Human,Multiple Sclerosis,Genomic_Instability,BRCA1,0.065,0.2153,UP
+GSE21942,Human,Multiple Sclerosis,Genomic_Instability,PARP1,-0.099,0.2237,DOWN
+GSE21942,Human,Multiple Sclerosis,Genomic_Instability,ATR,-0.147,0.0398,DOWN
+GSE21942,Human,Multiple Sclerosis,Telomere_Attrition,TERT,0.062,0.374,UP
+GSE21942,Human,Multiple Sclerosis,Telomere_Attrition,POT1,0.001,0.9889,UP
+GSE21942,Human,Multiple Sclerosis,Telomere_Attrition,TINF2,-0.104,0.0227,DOWN
+GSE21942,Human,Multiple Sclerosis,Epigenetic_Alterations,HDAC1,-0.078,0.1347,DOWN
+GSE21942,Human,Multiple Sclerosis,Epigenetic_Alterations,DNMT1,0.11,0.2421,UP
+GSE21942,Human,Multiple Sclerosis,Epigenetic_Alterations,KAT2A,0.332,0.0012,UP
+GSE21942,Human,Multiple Sclerosis,Epigenetic_Alterations,EZH2,0.107,0.2997,UP
+GSE21942,Human,Multiple Sclerosis,Epigenetic_Alterations,DNMT3A,0.288,0.0099,UP
+GSE21942,Human,Multiple Sclerosis,Epigenetic_Alterations,SIRT1,0.021,0.7835,UP
+GSE21942,Human,Multiple Sclerosis,Epigenetic_Alterations,DNMT3B,0.103,0.227,UP
+GSE21942,Human,Multiple Sclerosis,Loss_of_Proteostasis,UBB,0.269,0.0094,UP
+GSE21942,Human,Multiple Sclerosis,Loss_of_Proteostasis,HSPA1A,-0.514,0.0,DOWN
+GSE21942,Human,Multiple Sclerosis,Loss_of_Proteostasis,LAMP2,-0.307,0.0001,DOWN
+GSE21942,Human,Multiple Sclerosis,Loss_of_Proteostasis,ATG5,-0.024,0.6445,DOWN
+GSE21942,Human,Multiple Sclerosis,Loss_of_Proteostasis,PSMC1,0.102,0.0464,UP
+GSE21942,Human,Multiple Sclerosis,Loss_of_Proteostasis,HSP90AA1,-0.125,0.0888,DOWN
+GSE21942,Human,Multiple Sclerosis,Nutrient_Sensing,PRKAA1,-0.046,0.5144,DOWN
+GSE21942,Human,Multiple Sclerosis,Nutrient_Sensing,MTOR,0.189,0.012,UP
+GSE21942,Human,Multiple Sclerosis,Nutrient_Sensing,IGF1R,0.367,0.1305,UP
+GSE21942,Human,Multiple Sclerosis,Nutrient_Sensing,FOXO3,0.294,0.1702,UP
+GSE21942,Human,Multiple Sclerosis,Nutrient_Sensing,IGF1,0.007,0.7077,UP
+GSE21942,Human,Multiple Sclerosis,Nutrient_Sensing,SIRT1,0.021,0.7835,UP
+GSE21942,Human,Multiple Sclerosis,Mitochondrial_Dysfunction,PARK2,0.036,0.049,UP
+GSE21942,Human,Multiple Sclerosis,Mitochondrial_Dysfunction,SOD2,-0.071,0.5319,DOWN
+GSE21942,Human,Multiple Sclerosis,Mitochondrial_Dysfunction,PPARGC1A,0.189,0.0407,UP
+GSE21942,Human,Multiple Sclerosis,Mitochondrial_Dysfunction,TFAM,-0.256,0.0014,DOWN
+GSE21942,Human,Multiple Sclerosis,Mitochondrial_Dysfunction,PINK1,-0.021,0.8733,DOWN
+GSE21942,Human,Multiple Sclerosis,Cellular_Senescence,SERPINE1,0.089,0.2353,UP
+GSE21942,Human,Multiple Sclerosis,Cellular_Senescence,GLB1,-0.159,0.1335,DOWN
+GSE21942,Human,Multiple Sclerosis,Cellular_Senescence,TP53,-0.317,0.0013,DOWN
+GSE21942,Human,Multiple Sclerosis,Cellular_Senescence,CDKN1A,0.403,0.1468,UP
+GSE21942,Human,Multiple Sclerosis,Cellular_Senescence,RB1,-0.067,0.3517,DOWN
+GSE21942,Human,Multiple Sclerosis,Cellular_Senescence,CDKN2A,0.027,0.7185,UP
+GSE21942,Human,Multiple Sclerosis,Stem_Cell_Exhaustion,TERT,0.062,0.374,UP
+GSE21942,Human,Multiple Sclerosis,Stem_Cell_Exhaustion,BMI1,0.091,0.3805,UP
+GSE21942,Human,Multiple Sclerosis,Stem_Cell_Exhaustion,POU5F1,0.1,0.0741,UP
+GSE21942,Human,Multiple Sclerosis,Stem_Cell_Exhaustion,SOX2,0.021,0.2056,UP
+GSE21942,Human,Multiple Sclerosis,Stem_Cell_Exhaustion,NANOG,0.034,0.1571,UP
+GSE21942,Human,Multiple Sclerosis,Stem_Cell_Exhaustion,KLF4,-0.029,0.8276,DOWN
+GSE21942,Human,Multiple Sclerosis,Altered_Intercellular_Comm,CXCL8,2.135,0.0007,UP
+GSE21942,Human,Multiple Sclerosis,Altered_Intercellular_Comm,TGFB1,0.157,0.4977,UP
+GSE21942,Human,Multiple Sclerosis,Altered_Intercellular_Comm,IL1B,-0.571,0.0021,DOWN
+GSE21942,Human,Multiple Sclerosis,Altered_Intercellular_Comm,IL6,0.204,0.0199,UP
+GSE21942,Human,Multiple Sclerosis,Altered_Intercellular_Comm,TNF,0.059,0.7925,UP
+GSE21942,Human,Multiple Sclerosis,Altered_Intercellular_Comm,NFKB1,0.187,0.1175,UP
+GSE8762,Human,Huntington's Disease,Genomic_Instability,ATM,0.026,0.4513,UP
+GSE8762,Human,Huntington's Disease,Genomic_Instability,TP53,-0.033,0.4087,DOWN
+GSE8762,Human,Huntington's Disease,Genomic_Instability,XRCC1,0.027,0.243,UP
+GSE8762,Human,Huntington's Disease,Genomic_Instability,BRCA1,0.01,0.6488,UP
+GSE8762,Human,Huntington's Disease,Genomic_Instability,PARP1,-0.08,0.0372,DOWN
+GSE8762,Human,Huntington's Disease,Genomic_Instability,ATR,-0.031,0.3187,DOWN
+GSE8762,Human,Huntington's Disease,Telomere_Attrition,TERT,0.023,0.57,UP
+GSE8762,Human,Huntington's Disease,Telomere_Attrition,POT1,-0.056,0.2883,DOWN
+GSE8762,Human,Huntington's Disease,Telomere_Attrition,TINF2,-0.034,0.3449,DOWN
+GSE8762,Human,Huntington's Disease,Epigenetic_Alterations,HDAC1,-0.017,0.3054,DOWN
+GSE8762,Human,Huntington's Disease,Epigenetic_Alterations,DNMT1,0.019,0.46,UP
+GSE8762,Human,Huntington's Disease,Epigenetic_Alterations,KAT2A,0.013,0.6748,UP
+GSE8762,Human,Huntington's Disease,Epigenetic_Alterations,EZH2,0.028,0.4913,UP
+GSE8762,Human,Huntington's Disease,Epigenetic_Alterations,DNMT3A,-0.009,0.7733,DOWN
+GSE8762,Human,Huntington's Disease,Epigenetic_Alterations,SIRT1,-0.049,0.4975,DOWN
+GSE8762,Human,Huntington's Disease,Epigenetic_Alterations,DNMT3B,-0.004,0.8146,DOWN
+GSE8762,Human,Huntington's Disease,Loss_of_Proteostasis,UBB,0.021,0.2996,UP
+GSE8762,Human,Huntington's Disease,Loss_of_Proteostasis,HSPA1A,-0.006,0.8901,DOWN
+GSE8762,Human,Huntington's Disease,Loss_of_Proteostasis,LAMP2,-0.046,0.5659,DOWN
+GSE8762,Human,Huntington's Disease,Loss_of_Proteostasis,ATG5,-0.094,0.1149,DOWN
+GSE8762,Human,Huntington's Disease,Loss_of_Proteostasis,PSMC1,-0.014,0.4139,DOWN
+GSE8762,Human,Huntington's Disease,Loss_of_Proteostasis,HSP90AA1,-0.032,0.0295,DOWN
+GSE8762,Human,Huntington's Disease,Nutrient_Sensing,PRKAA1,-0.021,0.6065,DOWN
+GSE8762,Human,Huntington's Disease,Nutrient_Sensing,MTOR,-0.003,0.8834,DOWN
+GSE8762,Human,Huntington's Disease,Nutrient_Sensing,IGF1R,-0.001,0.9848,DOWN
+GSE8762,Human,Huntington's Disease,Nutrient_Sensing,FOXO3,0.068,0.1565,UP
+GSE8762,Human,Huntington's Disease,Nutrient_Sensing,IGF1,0.008,0.8412,UP
+GSE8762,Human,Huntington's Disease,Nutrient_Sensing,SIRT1,-0.049,0.4975,DOWN
+GSE8762,Human,Huntington's Disease,Mitochondrial_Dysfunction,PARK2,-0.003,0.9273,DOWN
+GSE8762,Human,Huntington's Disease,Mitochondrial_Dysfunction,SOD2,0.162,0.1599,UP
+GSE8762,Human,Huntington's Disease,Mitochondrial_Dysfunction,PPARGC1A,0.012,0.5309,UP
+GSE8762,Human,Huntington's Disease,Mitochondrial_Dysfunction,TFAM,-0.071,0.032,DOWN
+GSE8762,Human,Huntington's Disease,Mitochondrial_Dysfunction,PINK1,0.052,0.2344,UP
+GSE8762,Human,Huntington's Disease,Cellular_Senescence,SERPINE1,0.032,0.2739,UP
+GSE8762,Human,Huntington's Disease,Cellular_Senescence,GLB1,-0.026,0.6874,DOWN
+GSE8762,Human,Huntington's Disease,Cellular_Senescence,TP53,-0.033,0.4087,DOWN
+GSE8762,Human,Huntington's Disease,Cellular_Senescence,CDKN1A,0.122,0.0418,UP
+GSE8762,Human,Huntington's Disease,Cellular_Senescence,RB1,-0.036,0.4289,DOWN
+GSE8762,Human,Huntington's Disease,Cellular_Senescence,CDKN2A,-0.002,0.9202,DOWN
+GSE8762,Human,Huntington's Disease,Stem_Cell_Exhaustion,TERT,0.023,0.57,UP
+GSE8762,Human,Huntington's Disease,Stem_Cell_Exhaustion,BMI1,-0.044,0.1991,DOWN
+GSE8762,Human,Huntington's Disease,Stem_Cell_Exhaustion,POU5F1,0.007,0.7943,UP
+GSE8762,Human,Huntington's Disease,Stem_Cell_Exhaustion,SOX2,0.014,0.5991,UP
+GSE8762,Human,Huntington's Disease,Stem_Cell_Exhaustion,NANOG,-0.052,0.0335,DOWN
+GSE8762,Human,Huntington's Disease,Stem_Cell_Exhaustion,KLF4,0.012,0.8878,UP
+GSE8762,Human,Huntington's Disease,Altered_Intercellular_Comm,CXCL8,0.319,0.1525,UP
+GSE8762,Human,Huntington's Disease,Altered_Intercellular_Comm,TGFB1,0.026,0.2654,UP
+GSE8762,Human,Huntington's Disease,Altered_Intercellular_Comm,IL1B,0.502,0.0487,UP
+GSE8762,Human,Huntington's Disease,Altered_Intercellular_Comm,IL6,0.1,0.4833,UP
+GSE8762,Human,Huntington's Disease,Altered_Intercellular_Comm,TNF,0.426,0.0541,UP
+GSE8762,Human,Huntington's Disease,Altered_Intercellular_Comm,NFKB1,0.014,0.6923,UP
+GSE35642,Human,Parkinsonism (in vitro),Genomic_Instability,TP53,0.08,0.3794,UP
+GSE35642,Human,Parkinsonism (in vitro),Genomic_Instability,XRCC1,-0.077,0.4384,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Genomic_Instability,BRCA1,0.383,0.0089,UP
+GSE35642,Human,Parkinsonism (in vitro),Genomic_Instability,ATM,0.174,0.21,UP
+GSE35642,Human,Parkinsonism (in vitro),Genomic_Instability,PARP1,-0.09,0.2639,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Genomic_Instability,ATR,0.287,0.2921,UP
+GSE35642,Human,Parkinsonism (in vitro),Telomere_Attrition,POT1,0.184,0.4847,UP
+GSE35642,Human,Parkinsonism (in vitro),Telomere_Attrition,TERT,-0.081,0.5108,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Telomere_Attrition,TINF2,-0.115,0.3452,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Epigenetic_Alterations,HDAC1,0.001,0.9881,UP
+GSE35642,Human,Parkinsonism (in vitro),Epigenetic_Alterations,DNMT1,0.192,0.0127,UP
+GSE35642,Human,Parkinsonism (in vitro),Epigenetic_Alterations,KAT2A,-0.076,0.5244,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Epigenetic_Alterations,EZH2,0.138,0.2158,UP
+GSE35642,Human,Parkinsonism (in vitro),Epigenetic_Alterations,DNMT3A,-0.25,0.0349,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Epigenetic_Alterations,SIRT1,0.294,0.3903,UP
+GSE35642,Human,Parkinsonism (in vitro),Epigenetic_Alterations,DNMT3B,-0.079,0.6931,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Loss_of_Proteostasis,UBB,0.226,0.0823,UP
+GSE35642,Human,Parkinsonism (in vitro),Loss_of_Proteostasis,HSPA1A,0.712,0.0117,UP
+GSE35642,Human,Parkinsonism (in vitro),Loss_of_Proteostasis,LAMP2,-0.222,0.4323,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Loss_of_Proteostasis,ATG5,-0.015,0.9312,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Loss_of_Proteostasis,PSMC1,0.163,0.1763,UP
+GSE35642,Human,Parkinsonism (in vitro),Loss_of_Proteostasis,HSP90AA1,0.107,0.3284,UP
+GSE35642,Human,Parkinsonism (in vitro),Nutrient_Sensing,MTOR,-0.077,0.3399,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Nutrient_Sensing,IGF1R,0.253,0.3767,UP
+GSE35642,Human,Parkinsonism (in vitro),Nutrient_Sensing,FOXO3,-0.16,0.0494,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Nutrient_Sensing,IGF1,-0.327,0.0413,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Nutrient_Sensing,PRKAA1,-0.035,0.8553,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Nutrient_Sensing,SIRT1,0.294,0.3903,UP
+GSE35642,Human,Parkinsonism (in vitro),Mitochondrial_Dysfunction,TFAM,0.092,0.617,UP
+GSE35642,Human,Parkinsonism (in vitro),Mitochondrial_Dysfunction,PARK2,0.402,0.2905,UP
+GSE35642,Human,Parkinsonism (in vitro),Mitochondrial_Dysfunction,PINK1,0.181,0.1404,UP
+GSE35642,Human,Parkinsonism (in vitro),Mitochondrial_Dysfunction,SOD2,-0.127,0.3728,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Mitochondrial_Dysfunction,PPARGC1A,0.327,0.1308,UP
+GSE35642,Human,Parkinsonism (in vitro),Cellular_Senescence,GLB1,-0.069,0.655,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Cellular_Senescence,TP53,0.08,0.3794,UP
+GSE35642,Human,Parkinsonism (in vitro),Cellular_Senescence,CDKN1A,0.004,0.9777,UP
+GSE35642,Human,Parkinsonism (in vitro),Cellular_Senescence,SERPINE1,-0.008,0.9795,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Cellular_Senescence,RB1,0.169,0.4563,UP
+GSE35642,Human,Parkinsonism (in vitro),Cellular_Senescence,CDKN2A,-0.035,0.5313,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Stem_Cell_Exhaustion,BMI1,0.189,0.5872,UP
+GSE35642,Human,Parkinsonism (in vitro),Stem_Cell_Exhaustion,TERT,-0.081,0.5108,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Stem_Cell_Exhaustion,POU5F1,-0.077,0.8358,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Stem_Cell_Exhaustion,SOX2,0.29,0.1445,UP
+GSE35642,Human,Parkinsonism (in vitro),Stem_Cell_Exhaustion,NANOG,-0.297,0.5288,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Stem_Cell_Exhaustion,KLF4,-0.027,0.8476,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Altered_Intercellular_Comm,CXCL8,0.24,0.139,UP
+GSE35642,Human,Parkinsonism (in vitro),Altered_Intercellular_Comm,TGFB1,0.004,0.9892,UP
+GSE35642,Human,Parkinsonism (in vitro),Altered_Intercellular_Comm,IL1B,-0.052,0.6281,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Altered_Intercellular_Comm,IL6,-0.416,0.0869,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Altered_Intercellular_Comm,TNF,-0.079,0.8227,DOWN
+GSE35642,Human,Parkinsonism (in vitro),Altered_Intercellular_Comm,NFKB1,-0.2,0.0785,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Genomic_Instability,Xrcc1,0.066,0.6451,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Genomic_Instability,Atm,0.005,0.9609,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Genomic_Instability,Parp1,-0.408,0.0026,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Genomic_Instability,Brca1,0.526,0.0318,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Genomic_Instability,Trp53,0.297,0.0066,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Genomic_Instability,Atr,0.037,0.7937,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Telomere_Attrition,Terf1,0.142,0.3031,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Telomere_Attrition,Pot1a,-0.043,0.6285,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Telomere_Attrition,Tinf2,0.318,0.0002,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Telomere_Attrition,Tert,0.513,0.1725,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Epigenetic_Alterations,Ezh2,0.568,0.0249,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Epigenetic_Alterations,Dnmt3b,0.349,0.2378,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Epigenetic_Alterations,Sirt1,-0.164,0.3085,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Epigenetic_Alterations,Dnmt1,0.039,0.7774,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Epigenetic_Alterations,Kat2a,-0.059,0.3768,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Epigenetic_Alterations,Dnmt3a,0.122,0.3457,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Epigenetic_Alterations,Hdac1,0.134,0.3478,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Loss_of_Proteostasis,Atg5,0.037,0.6486,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Loss_of_Proteostasis,Psmc1,-0.223,0.0001,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Loss_of_Proteostasis,Lamp2,0.946,0.0001,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Loss_of_Proteostasis,Hsp90aa1,-0.266,0.0006,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Loss_of_Proteostasis,Ubb,0.026,0.698,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Loss_of_Proteostasis,Hspa1a,-0.207,0.3764,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Nutrient_Sensing,Mtor,-0.121,0.1993,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Nutrient_Sensing,Sirt1,-0.164,0.3085,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Nutrient_Sensing,Igf1,1.115,0.0,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Nutrient_Sensing,Igf1r,-0.226,0.0015,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Nutrient_Sensing,Prkaa2,-0.393,0.0002,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Nutrient_Sensing,Foxo3,0.009,0.9469,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Nutrient_Sensing,Prkaa1,-0.196,0.2289,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Mitochondrial_Dysfunction,Sod2,-0.059,0.5635,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Mitochondrial_Dysfunction,Park2,0.135,0.4404,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Mitochondrial_Dysfunction,Ppargc1a,-0.417,0.0111,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Mitochondrial_Dysfunction,Pink1,-0.017,0.6704,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Mitochondrial_Dysfunction,Tfam,-0.099,0.2068,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Cellular_Senescence,Glb1,0.877,0.0,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Cellular_Senescence,Rb1,0.383,0.0086,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Cellular_Senescence,Serpine1,1.487,0.0677,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Cellular_Senescence,Cdkn1a,0.381,0.6554,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Cellular_Senescence,Trp53,0.297,0.0066,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Cellular_Senescence,Cdkn2a,0.943,0.1988,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Stem_Cell_Exhaustion,Sox2,0.173,0.4412,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Stem_Cell_Exhaustion,Klf4,0.164,0.369,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Stem_Cell_Exhaustion,Bmi1,-0.133,0.1345,DOWN
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Stem_Cell_Exhaustion,Pou5f1,1.138,0.2988,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Stem_Cell_Exhaustion,Nanog,2.513,0.047,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Stem_Cell_Exhaustion,Tert,0.513,0.1725,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Altered_Intercellular_Comm,Tnf,1.322,0.1586,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Altered_Intercellular_Comm,Tgfb1,1.826,0.0,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Altered_Intercellular_Comm,Nfkb1,0.74,0.0,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Altered_Intercellular_Comm,Il1b,0.732,0.0055,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Altered_Intercellular_Comm,Cxcl2,0.266,0.7878,UP
+GSE23182,Mouse,Chronic Neurodegeneration + Inflammation,Altered_Intercellular_Comm,Il6,0.283,0.7527,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Genomic_Instability,Xrcc1,0.012,0.0416,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Genomic_Instability,Atm,-0.001,0.9531,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Genomic_Instability,Parp1,-0.003,0.4205,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Genomic_Instability,Brca1,-0.014,0.1466,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Genomic_Instability,Trp53,-0.006,0.2909,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Genomic_Instability,Atr,0.01,0.4037,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Telomere_Attrition,Terf1,-0.01,0.4383,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Telomere_Attrition,Pot1a,-0.002,0.7615,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Telomere_Attrition,Tinf2,0.012,0.0566,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Telomere_Attrition,Tert,0.018,0.1189,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Epigenetic_Alterations,Ezh2,-0.001,0.9284,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Epigenetic_Alterations,Dnmt3b,0.006,0.5193,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Epigenetic_Alterations,Sirt1,0.025,0.0806,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Epigenetic_Alterations,Dnmt1,-0.01,0.2242,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Epigenetic_Alterations,Kat2a,-0.001,0.8871,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Epigenetic_Alterations,Dnmt3a,-0.041,0.0001,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Epigenetic_Alterations,Hdac1,0.006,0.2258,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Loss_of_Proteostasis,Atg5,-0.019,0.0348,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Loss_of_Proteostasis,Psmc1,-0.006,0.0774,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Loss_of_Proteostasis,Lamp2,0.008,0.5417,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Loss_of_Proteostasis,Hsp90aa1,-0.014,0.0114,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Loss_of_Proteostasis,Ubb,-0.005,0.0345,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Loss_of_Proteostasis,Hspa1a,-0.032,0.029,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Nutrient_Sensing,Mtor,0.013,0.0383,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Nutrient_Sensing,Sirt1,0.025,0.0806,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Nutrient_Sensing,Igf1,0.023,0.3927,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Nutrient_Sensing,Igf1r,-0.021,0.0209,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Nutrient_Sensing,Prkaa2,-0.01,0.1649,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Nutrient_Sensing,Foxo3,0.012,0.0077,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Nutrient_Sensing,Prkaa1,-0.024,0.2791,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Mitochondrial_Dysfunction,Sod2,0.002,0.7575,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Mitochondrial_Dysfunction,Park2,0.01,0.2357,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Mitochondrial_Dysfunction,Ppargc1a,-0.007,0.376,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Mitochondrial_Dysfunction,Pink1,0.003,0.4194,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Mitochondrial_Dysfunction,Tfam,0.005,0.5238,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Cellular_Senescence,Glb1,-0.006,0.4103,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Cellular_Senescence,Rb1,-0.009,0.1605,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Cellular_Senescence,Serpine1,0.02,0.1947,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Cellular_Senescence,Cdkn1a,0.025,0.2518,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Cellular_Senescence,Trp53,-0.006,0.2909,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Cellular_Senescence,Cdkn2a,0.009,0.5807,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Stem_Cell_Exhaustion,Sox2,-0.035,0.1224,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Stem_Cell_Exhaustion,Klf4,-0.008,0.5587,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Stem_Cell_Exhaustion,Bmi1,-0.01,0.2133,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Stem_Cell_Exhaustion,Pou5f1,0.0,0.9967,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Stem_Cell_Exhaustion,Nanog,-0.007,0.4992,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Stem_Cell_Exhaustion,Tert,0.018,0.1189,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Altered_Intercellular_Comm,Tnf,-0.003,0.8379,DOWN
+GSE26600,Mouse,MAM Genotoxin Exposure,Altered_Intercellular_Comm,Tgfb1,0.03,0.0025,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Altered_Intercellular_Comm,Nfkb1,0.003,0.5105,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Altered_Intercellular_Comm,Il1b,0.018,0.1827,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Altered_Intercellular_Comm,Cxcl2,0.004,0.6989,UP
+GSE26600,Mouse,MAM Genotoxin Exposure,Altered_Intercellular_Comm,Il6,0.014,0.203,UP
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Genomic_Instability,Xrcc1,N/A,0.0382,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Genomic_Instability,Atm,N/A,0.9697,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Genomic_Instability,Parp1,6.521,0.2351,UP
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Genomic_Instability,Brca1,N/A,0.0052,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Genomic_Instability,Trp53,N/A,0.7524,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Genomic_Instability,Atr,N/A,0.249,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Telomere_Attrition,Terf1,-2.646,0.7125,DOWN
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Telomere_Attrition,Pot1a,-2.829,0.5604,DOWN
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Telomere_Attrition,Tinf2,N/A,0.0076,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Telomere_Attrition,Tert,0.206,0.9523,UP
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Epigenetic_Alterations,Ezh2,N/A,0.0307,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Epigenetic_Alterations,Dnmt3b,N/A,0.0303,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Epigenetic_Alterations,Sirt1,N/A,0.2377,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Epigenetic_Alterations,Dnmt1,N/A,0.1273,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Epigenetic_Alterations,Kat2a,N/A,0.0788,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Epigenetic_Alterations,Dnmt3a,N/A,0.169,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Epigenetic_Alterations,Hdac1,N/A,0.0295,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Loss_of_Proteostasis,Atg5,N/A,0.4359,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Loss_of_Proteostasis,Psmc1,N/A,0.9236,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Loss_of_Proteostasis,Lamp2,N/A,0.1677,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Loss_of_Proteostasis,Hsp90aa1,4.786,0.4492,UP
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Loss_of_Proteostasis,Ubb,N/A,0.7066,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Loss_of_Proteostasis,Hspa1a,-1.74,0.6641,DOWN
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Nutrient_Sensing,Mtor,-0.64,0.9553,DOWN
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Nutrient_Sensing,Sirt1,N/A,0.2377,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Nutrient_Sensing,Igf1,N/A,0.1427,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Nutrient_Sensing,Igf1r,-7.001,0.6382,DOWN
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Nutrient_Sensing,Prkaa2,N/A,0.0906,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Nutrient_Sensing,Foxo3,N/A,0.0511,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Nutrient_Sensing,Prkaa1,N/A,0.4688,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Mitochondrial_Dysfunction,Sod2,N/A,0.242,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Mitochondrial_Dysfunction,Park2,-3.941,0.6666,DOWN
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Mitochondrial_Dysfunction,Ppargc1a,2.099,0.9316,UP
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Mitochondrial_Dysfunction,Pink1,N/A,0.034,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Mitochondrial_Dysfunction,Tfam,N/A,0.6474,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Cellular_Senescence,Glb1,N/A,0.0535,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Cellular_Senescence,Rb1,N/A,0.8218,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Cellular_Senescence,Serpine1,N/A,0.047,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Cellular_Senescence,Cdkn1a,N/A,0.3694,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Cellular_Senescence,Trp53,N/A,0.7524,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Cellular_Senescence,Cdkn2a,N/A,0.0354,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Stem_Cell_Exhaustion,Sox2,N/A,0.0321,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Stem_Cell_Exhaustion,Klf4,N/A,0.0488,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Stem_Cell_Exhaustion,Bmi1,1.864,0.671,UP
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Stem_Cell_Exhaustion,Pou5f1,-2.116,0.3558,DOWN
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Stem_Cell_Exhaustion,Nanog,N/A,0.2442,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Stem_Cell_Exhaustion,Tert,0.206,0.9523,UP
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Altered_Intercellular_Comm,Tnf,N/A,0.0323,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Altered_Intercellular_Comm,Tgfb1,N/A,0.9433,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Altered_Intercellular_Comm,Nfkb1,N/A,0.5048,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Altered_Intercellular_Comm,Il1b,N/A,0.6125,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Altered_Intercellular_Comm,Cxcl2,N/A,0.9744,NC
+GSE47516,Mouse,Cstb KO (Epilepsy/Neurodegeneration),Altered_Intercellular_Comm,Il6,N/A,0.1584,NC
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Genomic_Instability,Xrcc1,-0.062,0.7222,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Genomic_Instability,Atm,0.051,0.8951,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Genomic_Instability,Parp1,0.37,0.0127,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Genomic_Instability,Brca1,-0.449,0.3028,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Genomic_Instability,Trp53,-0.054,0.9101,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Genomic_Instability,Atr,0.289,0.2499,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Telomere_Attrition,Terf1,-0.212,0.5792,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Telomere_Attrition,Pot1a,-0.623,0.0245,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Telomere_Attrition,Tinf2,1.323,0.0009,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Telomere_Attrition,Tert,-1.321,0.1479,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Epigenetic_Alterations,Ezh2,-0.237,0.5223,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Epigenetic_Alterations,Dnmt3b,-0.244,0.7289,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Epigenetic_Alterations,Sirt1,0.051,0.798,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Epigenetic_Alterations,Dnmt1,-0.205,0.1355,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Epigenetic_Alterations,Kat2a,0.291,0.0088,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Epigenetic_Alterations,Dnmt3a,-0.627,0.0072,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Epigenetic_Alterations,Hdac1,0.032,0.9251,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Loss_of_Proteostasis,Atg5,0.192,0.4704,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Loss_of_Proteostasis,Psmc1,0.208,0.1431,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Loss_of_Proteostasis,Lamp2,0.083,0.5792,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Loss_of_Proteostasis,Hsp90aa1,0.115,0.082,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Loss_of_Proteostasis,Ubb,0.536,0.0041,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Loss_of_Proteostasis,Hspa1a,-1.075,0.0262,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Nutrient_Sensing,Mtor,0.012,0.9419,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Nutrient_Sensing,Sirt1,0.051,0.798,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Nutrient_Sensing,Igf1,-2.531,0.0003,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Nutrient_Sensing,Igf1r,-0.316,0.3655,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Nutrient_Sensing,Prkaa2,-0.767,0.0188,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Nutrient_Sensing,Foxo3,-0.621,0.0127,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Nutrient_Sensing,Prkaa1,-0.272,0.4985,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Mitochondrial_Dysfunction,Sod2,0.074,0.2485,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Mitochondrial_Dysfunction,Park2,0.333,0.1139,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Mitochondrial_Dysfunction,Ppargc1a,-1.815,0.0,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Mitochondrial_Dysfunction,Pink1,-0.2,0.0007,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Mitochondrial_Dysfunction,Tfam,-0.225,0.3669,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Cellular_Senescence,Glb1,0.249,0.3339,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Cellular_Senescence,Rb1,-0.515,0.1653,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Cellular_Senescence,Serpine1,-0.949,0.3816,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Cellular_Senescence,Cdkn1a,-1.58,0.0021,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Cellular_Senescence,Trp53,-0.054,0.9101,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Cellular_Senescence,Cdkn2a,-0.065,0.9621,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Stem_Cell_Exhaustion,Sox2,-0.599,0.1311,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Stem_Cell_Exhaustion,Klf4,0.488,0.1039,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Stem_Cell_Exhaustion,Bmi1,-0.596,0.0972,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Stem_Cell_Exhaustion,Pou5f1,0.042,0.9255,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Stem_Cell_Exhaustion,Nanog,-1.7,0.1862,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Stem_Cell_Exhaustion,Tert,-1.321,0.1479,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Altered_Intercellular_Comm,Tnf,0.725,0.3574,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Altered_Intercellular_Comm,Tgfb1,-0.343,0.5839,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Altered_Intercellular_Comm,Nfkb1,0.072,0.8502,UP
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Altered_Intercellular_Comm,Il1b,-1.052,0.2687,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Altered_Intercellular_Comm,Cxcl2,-0.893,0.4815,DOWN
+GSE52118,Mouse,ALS Motor Pool Vulnerability,Altered_Intercellular_Comm,Il6,-1.026,0.5286,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Genomic_Instability,Xrcc1,-0.019,0.7966,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Genomic_Instability,Atm,-0.445,0.0197,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Genomic_Instability,Parp1,0.006,0.936,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Genomic_Instability,Brca1,-0.023,0.9087,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Genomic_Instability,Trp53,-0.07,0.4071,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Genomic_Instability,Atr,-0.247,0.0095,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Telomere_Attrition,Terf1,0.05,0.8507,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Telomere_Attrition,Pot1a,0.013,0.9139,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Telomere_Attrition,Tinf2,-0.0,0.9982,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Telomere_Attrition,Tert,-0.22,0.7675,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Epigenetic_Alterations,Ezh2,-0.059,0.7475,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Epigenetic_Alterations,Dnmt3b,0.784,0.0246,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Epigenetic_Alterations,Sirt1,0.024,0.8234,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Epigenetic_Alterations,Dnmt1,0.113,0.4032,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Epigenetic_Alterations,Kat2a,-0.031,0.6259,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Epigenetic_Alterations,Dnmt3a,0.004,0.9533,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Epigenetic_Alterations,Hdac1,-0.111,0.2314,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Loss_of_Proteostasis,Atg5,0.136,0.334,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Loss_of_Proteostasis,Psmc1,-0.043,0.1142,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Loss_of_Proteostasis,Lamp2,0.183,0.0241,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Loss_of_Proteostasis,Hsp90aa1,0.053,0.2446,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Loss_of_Proteostasis,Ubb,-0.091,0.412,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Loss_of_Proteostasis,Hspa1a,0.407,0.0983,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Nutrient_Sensing,Mtor,-0.355,0.1068,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Nutrient_Sensing,Sirt1,0.024,0.8234,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Nutrient_Sensing,Igf1,0.3,0.2796,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Nutrient_Sensing,Igf1r,-0.06,0.4839,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Nutrient_Sensing,Prkaa2,-0.148,0.2079,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Nutrient_Sensing,Foxo3,0.205,0.0084,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Nutrient_Sensing,Prkaa1,0.003,0.984,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Mitochondrial_Dysfunction,Sod2,-0.323,0.0015,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Mitochondrial_Dysfunction,Park2,-0.011,0.9755,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Mitochondrial_Dysfunction,Ppargc1a,-1.58,0.0004,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Mitochondrial_Dysfunction,Pink1,0.238,0.1573,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Mitochondrial_Dysfunction,Tfam,-0.023,0.7709,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Cellular_Senescence,Glb1,0.047,0.7639,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Cellular_Senescence,Rb1,0.102,0.3782,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Cellular_Senescence,Serpine1,-0.374,0.5665,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Cellular_Senescence,Cdkn1a,0.64,0.1629,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Cellular_Senescence,Trp53,-0.07,0.4071,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Cellular_Senescence,Cdkn2a,0.193,0.7062,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Stem_Cell_Exhaustion,Sox2,-0.0,0.9994,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Stem_Cell_Exhaustion,Klf4,-0.099,0.3793,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Stem_Cell_Exhaustion,Bmi1,0.141,0.0195,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Stem_Cell_Exhaustion,Pou5f1,-0.331,0.7012,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Stem_Cell_Exhaustion,Nanog,1.325,0.3279,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Stem_Cell_Exhaustion,Tert,-0.22,0.7675,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Altered_Intercellular_Comm,Tnf,0.118,0.7945,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Altered_Intercellular_Comm,Tgfb1,-0.177,0.5451,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Altered_Intercellular_Comm,Nfkb1,-0.15,0.6067,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Altered_Intercellular_Comm,Il1b,-0.285,0.6772,DOWN
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Altered_Intercellular_Comm,Cxcl2,0.037,0.9725,UP
+GSE5786,Mouse,PGC-1α KO (Huntington's model),Altered_Intercellular_Comm,Il6,2.098,0.3667,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Genomic_Instability,Xrcc1,-0.016,0.0433,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Genomic_Instability,Atm,-0.002,0.825,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Genomic_Instability,Parp1,-0.015,0.2716,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Genomic_Instability,Brca1,-0.009,0.6492,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Genomic_Instability,Trp53,0.026,0.2667,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Genomic_Instability,Atr,0.02,0.2834,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Telomere_Attrition,Terf1,0.016,0.3847,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Telomere_Attrition,Pot1a,-0.013,0.433,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Telomere_Attrition,Tinf2,-0.0,0.9842,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Telomere_Attrition,Tert,0.018,0.607,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Epigenetic_Alterations,Ezh2,0.018,0.4403,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Epigenetic_Alterations,Dnmt3b,-0.008,0.7503,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Epigenetic_Alterations,Sirt1,0.014,0.1968,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Epigenetic_Alterations,Dnmt1,0.002,0.9059,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Epigenetic_Alterations,Kat2a,-0.028,0.2723,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Epigenetic_Alterations,Dnmt3a,0.01,0.3546,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Epigenetic_Alterations,Hdac1,0.012,0.3851,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Loss_of_Proteostasis,Atg5,-0.012,0.1788,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Loss_of_Proteostasis,Psmc1,-0.018,0.2917,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Loss_of_Proteostasis,Lamp2,0.025,0.0774,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Loss_of_Proteostasis,Hsp90aa1,-0.005,0.5177,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Loss_of_Proteostasis,Ubb,-0.003,0.1483,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Loss_of_Proteostasis,Hspa1a,-0.051,0.1874,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Nutrient_Sensing,Mtor,0.017,0.349,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Nutrient_Sensing,Sirt1,0.014,0.1968,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Nutrient_Sensing,Igf1,0.012,0.4285,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Nutrient_Sensing,Igf1r,-0.011,0.3814,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Nutrient_Sensing,Prkaa2,0.02,0.3807,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Nutrient_Sensing,Foxo3,0.006,0.6395,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Nutrient_Sensing,Prkaa1,0.011,0.4734,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Mitochondrial_Dysfunction,Sod2,-0.005,0.4204,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Mitochondrial_Dysfunction,Park2,-0.017,0.2729,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Mitochondrial_Dysfunction,Ppargc1a,0.009,0.1588,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Mitochondrial_Dysfunction,Pink1,-0.0,0.9785,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Mitochondrial_Dysfunction,Tfam,0.01,0.0641,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Cellular_Senescence,Glb1,0.01,0.4903,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Cellular_Senescence,Rb1,0.012,0.5332,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Cellular_Senescence,Serpine1,0.042,0.5486,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Cellular_Senescence,Cdkn1a,-0.016,0.6446,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Cellular_Senescence,Trp53,0.026,0.2667,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Cellular_Senescence,Cdkn2a,-0.024,0.6819,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Stem_Cell_Exhaustion,Sox2,0.048,0.0477,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Stem_Cell_Exhaustion,Klf4,-0.071,0.0445,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Stem_Cell_Exhaustion,Bmi1,0.009,0.3548,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Stem_Cell_Exhaustion,Pou5f1,-0.02,0.5057,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Stem_Cell_Exhaustion,Nanog,-0.055,0.1521,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Stem_Cell_Exhaustion,Tert,0.018,0.607,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Altered_Intercellular_Comm,Tnf,-0.031,0.4683,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Altered_Intercellular_Comm,Tgfb1,0.044,0.3085,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Altered_Intercellular_Comm,Nfkb1,0.01,0.2055,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Altered_Intercellular_Comm,Il1b,0.019,0.1981,UP
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Altered_Intercellular_Comm,Cxcl2,-0.017,0.76,DOWN
+GSE63012,Mouse,IκBα KO (Neuroinflammation),Altered_Intercellular_Comm,Il6,0.043,0.318,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Genomic_Instability,Xrcc1,0.013,0.1897,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Genomic_Instability,Atm,-0.035,0.5437,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Genomic_Instability,Parp1,0.009,0.2406,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Genomic_Instability,Brca1,-0.017,0.2099,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Genomic_Instability,Trp53,0.069,0.0003,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Genomic_Instability,Atr,0.054,0.0355,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Telomere_Attrition,Terf1,0.005,0.7439,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Telomere_Attrition,Pot1a,-0.009,0.5179,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Telomere_Attrition,Tert,-0.022,0.141,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Telomere_Attrition,Tinf2,-0.022,0.0555,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Epigenetic_Alterations,Ezh2,0.071,0.0452,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Epigenetic_Alterations,Dnmt3b,0.015,0.0456,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Epigenetic_Alterations,Sirt1,0.015,0.2155,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Epigenetic_Alterations,Dnmt1,0.004,0.7788,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Epigenetic_Alterations,Kat2a,0.028,0.0005,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Epigenetic_Alterations,Dnmt3a,0.033,0.018,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Epigenetic_Alterations,Hdac1,0.011,0.3001,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Loss_of_Proteostasis,Atg5,-0.021,0.0372,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Loss_of_Proteostasis,Psmc1,-0.018,0.0054,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Loss_of_Proteostasis,Lamp2,-0.004,0.6678,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Loss_of_Proteostasis,Hsp90aa1,0.013,0.4327,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Loss_of_Proteostasis,Ubb,-0.004,0.1573,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Loss_of_Proteostasis,Hspa1a,0.108,0.0168,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Nutrient_Sensing,Mtor,-0.011,0.1217,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Nutrient_Sensing,Sirt1,0.015,0.2155,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Nutrient_Sensing,Igf1,-0.058,0.1758,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Nutrient_Sensing,Igf1r,-0.047,0.1088,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Nutrient_Sensing,Foxo3,-0.005,0.4056,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Mitochondrial_Dysfunction,Sod2,-0.005,0.4992,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Mitochondrial_Dysfunction,Park2,0.032,0.0051,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Mitochondrial_Dysfunction,Ppargc1a,-0.023,0.2273,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Mitochondrial_Dysfunction,Tfam,-0.013,0.0015,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Mitochondrial_Dysfunction,Pink1,-0.006,0.4119,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Cellular_Senescence,Glb1,-0.003,0.8181,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Cellular_Senescence,Rb1,-0.016,0.4511,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Cellular_Senescence,Serpine1,0.024,0.4766,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Cellular_Senescence,Cdkn1a,0.066,0.0186,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Cellular_Senescence,Trp53,0.069,0.0003,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Cellular_Senescence,Cdkn2a,-0.012,0.4232,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Stem_Cell_Exhaustion,Sox2,-0.038,0.0268,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Stem_Cell_Exhaustion,Klf4,0.028,0.5159,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Stem_Cell_Exhaustion,Bmi1,-0.02,0.0077,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Stem_Cell_Exhaustion,Pou5f1,-0.017,0.2541,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Stem_Cell_Exhaustion,Nanog,-0.005,0.8136,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Stem_Cell_Exhaustion,Tert,-0.022,0.141,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Altered_Intercellular_Comm,Tnf,-0.019,0.1134,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Altered_Intercellular_Comm,Tgfb1,0.038,0.1832,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Altered_Intercellular_Comm,Nfkb1,0.022,0.0571,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Altered_Intercellular_Comm,Il1b,-0.02,0.0983,DOWN
+GSE31458,Mouse,MPTP (Parkinson's model),Altered_Intercellular_Comm,Cxcl2,0.019,0.2874,UP
+GSE31458,Mouse,MPTP (Parkinson's model),Altered_Intercellular_Comm,Il6,0.016,0.2609,UP
