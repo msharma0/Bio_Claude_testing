@@ -2,6 +2,7 @@
 """Debug platform annotation loading."""
 import os
 
+
 BASE = "/Users/ambuj.mehta/code/Git_Repos/Bio_Claude_testing/platforms"
 annot = os.path.join(BASE, "GPL570.annot")
 
